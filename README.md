@@ -1,6 +1,7 @@
 README
 ================
 
+![](SeaBABEL_logo.png)
 
 **Custom color palettes inspired by the Marine Bioacoustics and
 Behavioral Ecology Lab (SeaBABEL)**  
@@ -15,10 +16,9 @@ palette designed for use with base R or `ggplot2` visualizations.
 
 You can install the development version of `seababel` from GitHub using:
 
-\`\`\`r \# install.packages(“devtools”)
-devtools::install_github(“your-username/seababel”)
-
-library(seababel) sea_babel_palette(7)
+``` r
+# install.packages("devtools") devtools::install_github("your-username/seababel")
+```
 
 ## Examples
 
@@ -36,7 +36,7 @@ ggplot(mpg, aes(x = class, fill = class)) +
   theme_minimal() 
 ```
 
-![](README_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
 
 ## Continuous color palette
 
@@ -44,4 +44,4 @@ ggplot(mpg, aes(x = class, fill = class)) +
 ggplot(faithful, aes(x = waiting, y = eruptions, color = eruptions)) + geom_point(size = 3) + scale_color_seababel(discrete = FALSE) + theme_minimal()
 ```
 
-![](README_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![](README_files/figure-gfm/unnamed-chunk-4-1.png)<!-- -->

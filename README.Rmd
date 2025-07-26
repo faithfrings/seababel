@@ -16,9 +16,9 @@ The `seababel` package provides a custom discrete and continuous color palette d
 
 You can install the development version of `seababel` from GitHub using:
 
-\`\`\`r \# install.packages("devtools") devtools::install_github("your-username/seababel")
-
-library(seababel) sea_babel_palette(7)
+```{r}
+# install.packages("devtools") devtools::install_github("your-username/seababel")
+```
 
 ## Examples
 
