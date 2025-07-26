@@ -1,6 +1,6 @@
-#' ggplot2 fill scale using SEA BABEL palette
+#' ggplot2 fill scale using SeaBABEL palette
 #' @param discrete Whether to use discrete or continuous scale.
-#' @param ... Additional arguments to pass to scale_fill_manual or scale_fill_gradientn
+#' @param ... Additional arguments to pass to scale_fill_manual or scale_fill_gradient
 #' @export
 scale_fill_seababel <- function(discrete = TRUE, ...) {
   if (discrete) {

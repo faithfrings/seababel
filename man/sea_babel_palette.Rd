@@ -2,7 +2,7 @@
 % Please edit documentation in R/palette.R
 \name{sea_babel_palette}
 \alias{sea_babel_palette}
-\title{SEA BABEL Color Palette}
+\title{SeaBABEL Color Palette}
 \usage{
 sea_babel_palette(n, type = c("discrete", "continuous"))
 }
@@ -15,7 +15,7 @@ sea_babel_palette(n, type = c("discrete", "continuous"))
 A vector of colors.
 }
 \description{
-Custom color palette inspired by the Marine Bioacoustics and Behavioral Ecology Lab (SEA BABEL) at the University of New Hampshire.
+Custom color palette inspired by the Marine Bioacoustics and Behavioral Ecology Lab (SeaBABEL) at the University of New Hampshire.
 }
 \examples{
 sea_babel_palette(5, type = "discrete")

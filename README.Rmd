@@ -1,0 +1,25 @@
+---
+title: "README"
+output: html_document
+---
+
+---
+output: github_document
+---
+
+
+
+**Custom color palettes inspired by the Marine Bioacoustics and Behavioral Ecology Lab (SeaBABEL)**  
+University of New Hampshire
+
+The `seababel` package provides a custom discrete and continuous color palette designed for use with base R or `ggplot2` visualizations.
+
+---
+
+
+
+You can install the development version of `seababel` from GitHub using:
+
+```r
+# install.packages("devtools")
+devtools::install_github("your-username/seababel")

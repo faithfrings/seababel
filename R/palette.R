@@ -1,6 +1,6 @@
-#' SEA BABEL Color Palette
+#' SeaBABEL Color Palette
 #'
-#' Custom color palette inspired by the Marine Bioacoustics and Behavioral Ecology Lab (SEA BABEL) at the University of New Hampshire.
+#' Custom color palette inspired by the Marine Bioacoustics and Behavioral Ecology Lab (SeaBABEL) at the University of New Hampshire.
 #'
 #' @param n Number of colors to return.
 #' @param type Either "discrete" or "continuous".

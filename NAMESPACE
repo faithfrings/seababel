@@ -3,3 +3,5 @@
 export(scale_color_seababel)
 export(scale_fill_seababel)
 export(sea_babel_palette)
+import(ggplot2)
+importFrom(grDevices,colorRampPalette)

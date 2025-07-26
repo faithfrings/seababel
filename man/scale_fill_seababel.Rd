@@ -2,15 +2,15 @@
 % Please edit documentation in R/ggplot-scales.R
 \name{scale_fill_seababel}
 \alias{scale_fill_seababel}
-\title{ggplot2 fill scale using SEA BABEL palette}
+\title{ggplot2 fill scale using SeaBABEL palette}
 \usage{
 scale_fill_seababel(discrete = TRUE, ...)
 }
 \arguments{
 \item{discrete}{Whether to use discrete or continuous scale.}
 
-\item{...}{Additional arguments to pass to scale_fill_manual or scale_fill_gradientn}
+\item{...}{Additional arguments to pass to scale_fill_manual or scale_fill_gradient}
 }
 \description{
-ggplot2 fill scale using SEA BABEL palette
+ggplot2 fill scale using SeaBABEL palette
 }
