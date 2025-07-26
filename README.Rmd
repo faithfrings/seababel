@@ -5,9 +5,7 @@ output: github_document
 
 ![](SeaBABEL_logo.png)
 
-**Custom color palettes developed from the Marine Bioacoustics and Behavioral Ecology Lab (SeaBABEL) logo at the University of New Hampshire.**
-
-The `seababel` package provides a custom discrete and continuous color palette designed for use with base R or `ggplot2` visualizations.
+The `seababel` package uses colors inspired by the SeaBABEL lab to provide a custom discrete and continuous color palette designed for use with base R or `ggplot2` visualizations.
 
 ------------------------------------------------------------------------
 
